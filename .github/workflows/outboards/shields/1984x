@@ -1,0 +1,7 @@
+# Copyright 2023 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=t0bybr/zmk-config-kailhx
+outboard_ref=master
+outboard_from=config/boards/shields/1984x
+outboard_to=boards/shields/1984x
